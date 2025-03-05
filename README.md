@@ -6,7 +6,7 @@ This project analyzes a dataset of mobile phones listed on Flipkart. The dataset
 
 ## Dataset
 - File Name: Flipkart Mobile - 2.csv
-- Source: Flipkart (kaggel)
+- Source: Flipkart (kaggle)
 - Format: CSV (Comma-Separated Values)
 ## Features
 - The dataset includes the following columns:
